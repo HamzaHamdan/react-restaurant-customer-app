@@ -1,9 +1,14 @@
 ## What it does.
 
-Salty-Dogs-Galley is a restaurant application created so you can order seafood dishes online.  From the home page, you can access menu items, order and checkout from the top navigation bar.  To view the app, click the following url https://salty-dogs-galley-customer-app.herokuapp.com/ .  This application is linked to the manager application, found at https://salty-dogs-galley-manager.herokuapp.com/ , which can be used to edit menu items and manage orders.  To log in, use the following user name and password.
+This application (Salty-Dogs-Galley) is part of a two-sided restaurant application created so you can order seafood dishes online.From the home page navigation bar, you can access menu items, place orders and checkout. 
 
+Click the following URL to view the customer side application https://sdgcustomer.herokuapp.com/
+
+The other part of this applciation is the manager part found which can be used to edit menu items and manage orders. You can use the following URL to access the manager app https://sdgmanager.herokuapp.com/ and use the below username and password.
+```
 User Name: sdg.manager@hotmail.com
 Password: 1234567
+```
 
 ### Home Screen
 ![Home Screen](https://github.com/josephmerlitz/Salty-Dogs-Galley-Customer-App/blob/master/repo-images/Home.png)
