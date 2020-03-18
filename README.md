@@ -1,4 +1,4 @@
-## What it does.
+## What it does
 
 This application (Salty-Dogs-Galley) is part of a two-sided restaurant application created so you can order seafood dishes online.From the home page navigation bar, you can access menu items, place orders and checkout. 
 
@@ -9,6 +9,8 @@ The other part of this applciation is the manager part found which can be used t
 User Name: sdg.manager@hotmail.com
 Password: 1234567
 ```
+
+## Screenshots
 
 ### Home Screen
 ![Home Screen](https://github.com/josephmerlitz/Salty-Dogs-Galley-Customer-App/blob/master/repo-images/Home.png)
